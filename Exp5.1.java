@@ -50,8 +50,7 @@ class MyInteger {
  public static MyInteger parseMyInt(String str) {
  return new MyInteger(Integer.parseInt(str));
  }
-DEPARTMENT OF
-COMPUTER SCIENCE & ENGINEERING
+
 }
 public class SumUsingWrapper {
  public static int sumList(List<String> numbers) {
